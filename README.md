@@ -83,7 +83,7 @@ The system will consist of:
 ---
 
 ## **4. Assumptions & Constraints**  
-- Payment gateway integration (Stripe/PayPal) is required.  
+- Payment gateway integration (Stripe/PayPal/Telebirr) is required.  
 - Students must complete assignments to get certified.  
 - Instructors must be approved by the admin.  
 
