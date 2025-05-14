@@ -91,7 +91,7 @@ The system will consist of:
 
 ## **5. Future Enhancements**  
 - **Chat Support** – For student-instructor communication.  
-- **Multi-language Support** – Expand to non-English users.  
+- **Multi-language Support** – Expand to non-Amharic users.  
 - **Gamification** – Badges and rewards for course completion.  
 
 ---
